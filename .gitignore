@@ -1,0 +1,10 @@
+# Eclipse IDE: Archivos de configuracion
+.classpath
+.project
+.gradle
+.settings
+.springWebflow
+.springBeans
+bin/*
+build/*
+gradle/*
